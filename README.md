@@ -1,2 +1,2 @@
-# CODSOFT_YASH-DHULL
-I have done my all tasks as an intern of CODSOFT in JAVA PROGRAMMING
+# CODSOFT_PRINCE
+Project is completed by me as an intern at CODSOFT in JAVA PROGRAMMING.
